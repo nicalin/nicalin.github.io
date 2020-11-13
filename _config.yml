@@ -1,8 +1,8 @@
 # site settings
-title: Nica Lin
+title: Nica YC Lin
 subtitle: Personal Website
 email: nicayclin@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: I also go by Nica!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nicalin.github.io" # the base hostname & protocol for your site
 author: Nica
