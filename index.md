@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hi there! My name is Nica Lin and I'm from Taiwan. I have just received my B.A. degree from the Department of Foreign Languages and Literature at National Tsing Hua University (NTHU). Recently, I am working as a research assistant at the Natural Language Processing Lab at NTHU.
