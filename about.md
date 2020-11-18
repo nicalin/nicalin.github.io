@@ -15,3 +15,4 @@ nav-menu: true
 		<p>Hi my name is Nica!</p>
 	</div>
 </section>
+</div>
