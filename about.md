@@ -16,4 +16,15 @@ nav-menu: true
 		<p>Hi my name is Nica!</p>
 	</div>
 </section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<p>Here are some fun facts about me!</p>
+			</div>
+		</div>
+	</section>
+</section>
 </div>
