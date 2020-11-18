@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+show_tile: false
 nav-menu: true
 ---
 <!-- Main -->
