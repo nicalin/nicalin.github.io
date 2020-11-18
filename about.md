@@ -12,8 +12,6 @@ nav-menu: true
 		<header class="major">
 			<h2>ABOUT</h2>
 		</header>
-		<p>Hi my name is Nica!
-		
-		</p>
+		<p>Hi my name is Nica!</p>
 	</div>
 </section>
