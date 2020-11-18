@@ -1,6 +1,6 @@
 ---
 title: About
-layout: pages
+layout: page
 nav-menu: true
 ---
 <!-- Main -->
