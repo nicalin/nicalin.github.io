@@ -20,11 +20,14 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<div class="content">
-			<div class="inner">
-				<p>Here are some fun facts about me!</p>
-			</div>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h2>Fun Facts</h2>
+			</header>
+			<p>Here are some fun facts about me!</p>
 		</div>
+	</div>
 	</section>
 </section>
 </div>
