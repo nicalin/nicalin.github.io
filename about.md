@@ -21,7 +21,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Fun Facts</h2>
+			<h2>Random Facts</h2>
 		</header>
 		<p>Here are some fun facts about me!</p>
 	</div>
