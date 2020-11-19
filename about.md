@@ -18,16 +18,12 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-	<div class="content">
-		<div class="inner">
-			<header class="major">
-				<h2>Fun Facts</h2>
-			</header>
-			<p>Here are some fun facts about me!</p>
-		</div>
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>Fun Facts</h2>
+		</header>
+		<p>Here are some fun facts about me!</p>
 	</div>
-	</section>
 </section>
 </div>
