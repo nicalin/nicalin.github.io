@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: Experiences
 show_tile: true
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Experience</h1>
+			<h1>Experiences</h1>
 		</header>
 
 <!-- Content -->
