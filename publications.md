@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 show_tile: true
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Publication</h2>
+			<h2>Publications</h2>
 		</header>
 	</div>
 </section>
