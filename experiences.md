@@ -24,7 +24,7 @@ nav-menu: true
 		<header class="major">
 			<h3>Work Experiences</h3>
 		</header>
-		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020-Present)<br>
+		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020-Present)
 			<ul>
 				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
 				<li>lexical Bundle</li>
