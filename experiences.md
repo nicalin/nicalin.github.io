@@ -27,8 +27,7 @@ nav-menu: true
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - Present)
 			<ul>
 				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
-				<li>lexical Bundle</li>
-				<li>Argument-hood</li>
+				<li>Designed algorithm for the detection of argument-hood. </li>
 				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
 			</ul>
 		</p>
