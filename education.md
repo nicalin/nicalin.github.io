@@ -8,25 +8,25 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 	
+<!-- One -->	
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Education</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
 
-<!-- Three -->
-<section id="three">
+
+<!-- Two -->
+<section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>B.A. in Foreign Languages and Literature (FLL)</p>
+		
 	</div>
 </section>
+
 </div>
