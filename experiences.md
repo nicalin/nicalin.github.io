@@ -24,7 +24,7 @@ nav-menu: true
 		<header class="major">
 			<h3>Work Experiences</h3>
 		</header>
-		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020-Present)
+		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - Present)
 			<ul>
 				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
 				<li>lexical Bundle</li>
@@ -32,7 +32,14 @@ nav-menu: true
 				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
 			</ul>
 		</p>
-		<p>Yang, C. Y., Chen, Y. Z., <b>Lin, Y. C.</b>, Tsai, W. T. & Chang, J. S. (2019, October). <i>Annotating Synchronous Grammar Patterns across English and Chinese</i>. Poster presented at the 31st Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan.</p>
+		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Linguistic Intern</i> (July 2019 - June 2020)
+			<ul>
+				<li>Generated guidelines for synchronous grammar pattern annotation across Chinese and English. Analyzed the syntactic structures of Chinese and English.</li>
+				<li>Analyzed the relation between WordNet senses and Wikipedia pages. Aligned WordNet senses to their corresponding Wikipedia pages.</li>
+				<li>Devised testing data guidelines for the Wikipedia-WordNet alignment task.</li>
+				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
+			</ul>
+		</p>
 	</div>
 </section>
 
