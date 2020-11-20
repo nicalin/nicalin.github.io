@@ -28,4 +28,14 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h3>Award</h3>
+		</header>
+		<p>Academic Achievement Award, NTHU (2018): top 5% in class</p>
+	</div>
+</section>
+
 </div>
