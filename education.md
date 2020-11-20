@@ -25,7 +25,6 @@ nav-menu: true
 			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
 		</header>
 		<p>B.A. in Foreign Languages and Literature (FLL)</p>
-		
 	</div>
 </section>
 
