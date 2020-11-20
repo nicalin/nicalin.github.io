@@ -40,6 +40,13 @@ nav-menu: true
 				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
 			</ul>
 		</p>
+		<p><b>Glossika (Taipei, Taiwan)</b><br><i>Position: Linguistic Intern</i> (Jan. 2019 – June 2019)
+			<ul>
+				<li>Refined the Role and Reference Grammar database. Analyzed and annotated possible thematic roles of English verbs for improvement of Glossika learning system.</li>
+				<li>Amplified the lexicon databases of German, Dutch, and Swedish. Implemented their morphological structures with regular expression.</li>
+				<li>Mentor: Michael Campbell</li>
+			</ul>
+		</p>
 	</div>
 </section>
 
@@ -48,9 +55,13 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h3>Psycholinguistics</h3>
+			<h3>Teaching Experience</h3>
 		</header>
-		<p>Hsu, C. C., Chang, F. Y., Chen, C. Y., Chen, P. Y., <b>Lin, Y. C.</b> & Liu, Y. T. (2019, March). <i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presented at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China.</p>
+		<p><b>National Tsing Hua University, Dept. of Foreign Languages and Literature (Hsinchu, Taiwan)</b><br><i>Position: Teaching Assistant</i> (Jan. 2020 – June 2020)
+			<ul>
+				<li>FL422000 Sentence Processing Experiments (Instructor: Prof. Chun-Chieh Hsu, Ph.D.)</li>
+			</ul>
+		</p>
 	</div>
 </section>
 </div>
