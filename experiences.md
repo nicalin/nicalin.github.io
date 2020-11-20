@@ -7,37 +7,43 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
-<!-- One -->
+	
+<!-- One -->	
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Experiences</h1>
+			<h2>Experiences</h2>
 		</header>
+	</div>
+</section>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+
+<!-- Two -->
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h3>Work Experiences</h3>
+		</header>
+		<p>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)<br><i>Position: Research Assistant</i>(July 2020-Present)<br>
+			<ul>
+				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
+				<li>lexical Bundle</li>
+				<li>Argument-hood</li>
+				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
+			</ul>
+		</p>
+		<p>Yang, C. Y., Chen, Y. Z., <b>Lin, Y. C.</b>, Tsai, W. T. & Chang, J. S. (2019, October). <i>Annotating Synchronous Grammar Patterns across English and Chinese</i>. Poster presented at the 31st Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+</section>
+
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h3>Psycholinguistics</h3>
+		</header>
+		<p>Hsu, C. C., Chang, F. Y., Chen, C. Y., Chen, P. Y., <b>Lin, Y. C.</b> & Liu, Y. T. (2019, March). <i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presented at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China.</p>
 	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+</section>
 </div>
