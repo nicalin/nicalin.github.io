@@ -18,14 +18,4 @@ nav-menu: true
 		<p>My interest lies in computational linguistics / NLP. More specifically, my interest is in text processing. I am particularly interested in incorporating linguistic knowledge into computational linguistics / NLP applications.</p>
 	</div>
 </section>
-
-<!-- Two -->
-<!-- <section id="two"> -->
-<!-- 	<div class="inner"> -->
-<!-- 		<header class="major"> -->
-<!-- 			<h2>Random Facts</h2> -->
-<!--		</header> -->
-<!-- 		<p>Here are some fun facts about me!</p> -->
-<!--	</div> -->
-<!-- </section> -->
 </div>
