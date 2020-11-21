@@ -20,12 +20,12 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h2>Random Facts</h2>
-		</header>
-		<p>Here are some fun facts about me!</p>
-	</div>
-</section>
+<!-- <section id="two"> -->
+<!-- 	<div class="inner"> -->
+<!-- 		<header class="major"> -->
+<!-- 			<h2>Random Facts</h2> -->
+<!--		</header> -->
+<!-- 		<p>Here are some fun facts about me!</p> -->
+<!--	</div> -->
+<!-- </section> -->
 </div>
