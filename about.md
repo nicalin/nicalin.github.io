@@ -13,12 +13,13 @@ nav-menu: true
 		<header class="major">
 			<h2>About</h2>
 		</header>
+	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/nica.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<p>Hello! I am a research assistant at the Natural Language Processing (NLP) Lab at National Tsing Hua University (NTHU).</p>
@@ -35,6 +36,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Some Random Facts About Me</h2>
 		</header>
+	</div>
 </section>
 
 <!-- Four -->
