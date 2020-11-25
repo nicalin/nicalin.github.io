@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>I am both a dog person and a cat person!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This is <b>Chiao-Chiao</b>, one of my favorite dogs I met in NTHU! There are tons of photos of dogs and cats in my phone.</p>
 			</div>
 		</div>
 	</section>
