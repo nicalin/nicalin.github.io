@@ -19,7 +19,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{% link assets/images/nica.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/nica.jpg %}" alt="" data-position="center center" style="width:500px;height:600px;" />
 		<div class="content">
 			<div class="inner">
 				<p>Hello! I am a research assistant at the Natural Language Processing (NLP) Lab at National Tsing Hua University (NTHU).</p>
