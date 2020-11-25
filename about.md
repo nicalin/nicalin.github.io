@@ -14,7 +14,7 @@ nav-menu: true
 			<h2>About</h2>
 		</header>
 		<!-- ********************************* -->
-		<span class="image right"><img src="{% link assets/images/pic08.jpg %}" /></span>
+		<span class="image right"><img src="{% link assets/images/pic08.jpg %}" style="width:500px;height:600px;" /></span>
 		<!-- ********************************* -->
 		<p>Hello! I am a research assistant at the Natural Language Processing (NLP) Lab at National Tsing Hua University (NTHU).</p>
 		<p>Before my work as a research assistant, I completed my undergraduate studies at NTHU and received my B.A. degree in Foreign Languages and Literature. Till now, I dabbled in different linguistic fields such as psycholinguistics and computational linguistics / NLP. The psycholingusitics projects I participated in surround <i>Government and Binding</i> theory of Mandarin Chinese and English L2 acquisition. On the other hand, my computational linguistic experiences are about word meanings (Sense Alignment and Word Sense Disambiguation), and the automatic generation of Chinese Pattern Grammar.</p>
