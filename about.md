@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>I am both a dog person and a cat person!</h3>
+					<h3>Fact 1: I am both a dog person and a cat person!</h3>
 				</header>
 				<p>There are tons of photos of dogs and cats in my phone. This is <b>Chiao-Chiao</b>, one of my favorite dogs I met in NTHU!</p>
 			</div>
@@ -39,12 +39,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Fact 2: I live in Hsinchu for more than 20 years.</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>I was raised in Hsinchu and I even complete my bachelor degree in Hsinchu!</p>
 			</div>
 		</div>
 	</section>
