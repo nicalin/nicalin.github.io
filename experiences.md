@@ -27,14 +27,14 @@ nav-menu: true
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - Present)
 			<ul>
 				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
-				<li>Designed algorithm for the detection of argument-hood. </li>
+				<li>Developed the algorithm for the detection of argument-hood.</li>
 				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
 			</ul>
 		</p>
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Linguistic Intern</i> (July 2019 - June 2020)
 			<ul>
 				<li>Generated guidelines for synchronous grammar pattern annotation across Chinese and English. Analyzed the syntactic structures of Chinese and English.</li>
-				<li>Analyzed the relation between WordNet senses and Wikipedia pages. Aligned WordNet senses to their corresponding Wikipedia pages.</li>
+				<li>Analyzed the relation between WordNet senses and Wikipedia pages. Assisted in developing the algorithm for aligning WordNet senses to their corresponding Wikipedia pages.</li>
 				<li>Devised testing data guidelines for the Wikipedia-WordNet alignment task.</li>
 				<li>Mentor: Prof. Jason S. Chang, Ph.D.</li>
 			</ul>
