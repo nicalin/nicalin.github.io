@@ -34,22 +34,17 @@ nav-menu: true
 			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
 		</header>
 		<p>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</p>
-		
-		<header class="major">
-			<h4>Award</h4>
-		</header>
-		<p>Academic Achievement Award, NTHU (2018): top 5% in class</p>
 	</div>
 </section>
 
 <!-- Four -->
-<!-- <section id="four">
+<section id="four">
 	<div class="inner">
 		<header class="major">
 			<h4>Award</h4>
 		</header>
 		<p>Academic Achievement Award, NTHU (2018): top 5% in class</p>
 	</div>
-</section> -->
+</section>
 
 </div>
