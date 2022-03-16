@@ -27,24 +27,29 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two">
+<!-- Three -->
+<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
 		</header>
 		<p>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</p>
-	</div>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
+		
 		<header class="major">
-			<h3>Award</h3>
+			<h4>Award</h4>
 		</header>
 		<p>Academic Achievement Award, NTHU (2018): top 5% in class</p>
 	</div>
 </section>
+
+<!-- Four -->
+<!-- <section id="four">
+	<div class="inner">
+		<header class="major">
+			<h4>Award</h4>
+		</header>
+		<p>Academic Achievement Award, NTHU (2018): top 5% in class</p>
+	</div>
+</section> -->
 
 </div>
