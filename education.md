@@ -17,6 +17,15 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- Two -->
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h3>University of Washington, Seattle, US</h3>
+		</header>
+		<p>M.S. in Computational Linguistics (Sep. 2021 – March 2023)</p>
+	</div>
+</section>
 
 <!-- Two -->
 <section id="two">
