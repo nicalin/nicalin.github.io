@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Hi there! My name is Nica Lin and I'm from Taiwan. I have just received my B.A. degree from the Department of Foreign Languages and Literature at National Tsing Hua University (NTHU). Currently, I am working as a research assistant in the <a href="https://www.nlplab.cc/">NLP Lab</a> at NTHU.
+Hi there! My name is Yi-Chien (Nica Lin and I'm from Taiwan. Currently, I am doing my master's degree in <a href="https://www.compling.uw.edu/">computational linguistics</a> at University of Washington - Seattle!
