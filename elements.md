@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-show_tile: true
-nav-menu: true
+title: elements
+show_tile: false
+nav-menu: false
 ---
 
 <!-- Main -->
