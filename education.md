@@ -34,6 +34,16 @@ nav-menu: true
 			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
 		</header>
 		<p>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</p>
+		<h4>Relevant Courses</h4>
+		<ul>
+			<li>Syntax For Computational Linguistics</li>
+			<li>Deep Processing Techniques For Natural Language Processing</li>
+			<li>Shallow Processing Techniques For Natural Language Processing</li>
+			<li>Advanced Statistical Methods In Natural Language Processing</li>
+			<li>Knowledge Engineering For Deep Natural Language Processing</li>
+			<li>Natural Language Processing Systems And Applications</li>
+			<li>Phonetics</li>
+		</ul>
 	</div>
 </section>
 
