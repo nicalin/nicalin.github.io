@@ -24,16 +24,6 @@ nav-menu: true
 			<h3>University of Washington, Seattle, US</h3>
 		</header>
 		<p>M.S. in Computational Linguistics (Sep. 2021 – March 2023)</p>
-	</div>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
-		</header>
-		<p>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</p>
 		<h4>Relevant Courses</h4>
 		<ul>
 			<li>Syntax For Computational Linguistics</li>
@@ -44,6 +34,16 @@ nav-menu: true
 			<li>Natural Language Processing Systems And Applications</li>
 			<li>Phonetics</li>
 		</ul>
+	</div>
+</section>
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
+		</header>
+		<p>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</p>
 	</div>
 </section>
 
