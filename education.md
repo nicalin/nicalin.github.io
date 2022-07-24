@@ -26,7 +26,7 @@ nav-menu: true
 		<h3>M.S. in Computational Linguistics (Sep. 2021 – March 2023)</h3>
 		<h4>Relevant Courses</h4>
 		<ul>
-			<li>Syntax For Computational Linguistics</li>
+			<li>Syntax For Computational Linguistics (Head-Driven Phrase Structure Grammar; HPSG)</li>
 			<li>Deep Processing Techniques For Natural Language Processing</li>
 			<li>Shallow Processing Techniques For Natural Language Processing</li>
 			<li>Advanced Statistical Methods In Natural Language Processing</li>
@@ -55,7 +55,7 @@ nav-menu: true
 			<li>Introduction to Linguistics</li>
 			<li>Introduction to Applied Linguistics</li>
 			<li>Syntax</li>
-			<li>Sentence Processing Experiments</li>
+			<li>Sentence Processing Experiments (Psycholinguistic experiments)</li>
 			<li>Language and the Brain</li>
 			<li>Phonology</li>
 			<li>Introduction to Psycholinguistics</li>
