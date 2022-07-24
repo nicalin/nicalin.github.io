@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Education</h2>
+			<h1>Education</h1>
 		</header>
 	</div>
 </section>
@@ -21,9 +21,9 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h3>University of Washington, Seattle, US</h3>
+			<h2>University of Washington, Seattle, US</h2>
 		</header>
-		<p>M.S. in Computational Linguistics (Sep. 2021 – March 2023)</p>
+		<h3>M.S. in Computational Linguistics (Sep. 2021 – March 2023)</h3>
 		<h4>Relevant Courses</h4>
 		<ul>
 			<li>Syntax For Computational Linguistics</li>
@@ -41,20 +41,24 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h3>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h3>
+			<h2>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h2>
 		</header>
-		<p>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</p>
+		<h3>B.A. in Foreign Languages and Literature (Sep. 2015 – June 2020)</h3>
+		<h4>Award</h4>
+		<ul>
+			<li>Academic Achievement Award, NTHU (2018): top 5% in class</li>
+		</ul>
 	</div>
 </section>
 
 <!-- Four -->
-<section id="four">
+<!-- <section id="four">
 	<div class="inner">
 		<header class="major">
 			<h4>Award</h4>
 		</header>
 		<p>Academic Achievement Award, NTHU (2018): top 5% in class</p>
 	</div>
-</section>
+</section> -->
 
 </div>
