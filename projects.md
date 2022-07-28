@@ -21,10 +21,24 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h3>Computational Linguistics / Natural Language Processing</h3>
+			<h2>Computational Linguistics / Natural Language Processing</h2>
 		</header>
-		<p>Tuan, K. W., <b>Lin, Y. C.</b>, Chen, L. K., Chang, J. S. & Lee, K. L. (2020, December). <i>ConSenses: Disambiguating content word groups based on knowledge base and definition embedding</i>. Poster presented at the 25th International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2020), Taipei City, Taiwan.</p>
-		<p>Yang, C. Y., Chen, Y. Z., <b>Lin, Y. C.</b>, Tsai, W. T. & Chang, J. S. (2019, October). <i>Annotating Synchronous Grammar Patterns across English and Chinese</i>. Poster presented at the 31st Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan.</p>
+		<h3>Inference for valence-changing morphology</h3>
+		<i>Master's Thesis (Advisor: Prof. <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a>)</i> 
+		<ul>
+			<li>Inferring valence-changing verbal morphology from interlinear glossed text (IGT) to automatically answer the “valence-changing” part in the LinGO Grammar Matrix customization system.</li>
+		</ul>
+		<h3>Hixkaryana Grammar Implementation</h3>
+		<i>Course Project for <b>Knowledge Engineering For Deep Natural Language Processing</b></i>
+		<ul>
+			<li>Analyzed syntax in <a href="https://en.wikipedia.org/wiki/Hixkaryana_language">Hixkaryana</a>. </li>
+			<li>Implemented various linguistic phenomena with Head-Driven Phrase Structure Grammar (HPSG) for Hixkaryana (clausal modifier, non-verbal predicate, tense, aspect, adnominal possession, determiners, wh-questions, argument optionality, agreement).</li>
+		</ul>
+		<h3>Offensive Tweet Detection</h3>
+		<i>Course Project for <b>Natural Language Processing Systems And Applications</b></i>
+		<ul>
+			<li>to be added</li>
+		</ul>
 	</div>
 </section>
 
