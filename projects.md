@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Projects</h2>
+			<h1>Projects</h1>
 		</header>
 	</div>
 </section>
