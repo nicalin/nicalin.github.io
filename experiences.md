@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Experiences</h2>
+			<h1>Experiences</h1>
 		</header>
 	</div>
 </section>
@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h3>Work Experiences</h3>
+			<h2>Work Experiences</h2>
 		</header>
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - July 2021)
 			<ul>
@@ -54,7 +54,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h3>Teaching Experience</h3>
+			<h2>Teaching Experience</h2>
 		</header>
 		<p><b>National Tsing Hua University, Dept. of Foreign Languages and Literature (Hsinchu, Taiwan)</b><br><i>Position: Teaching Assistant</i> (Jan. 2020 – June 2020)
 			<ul>
