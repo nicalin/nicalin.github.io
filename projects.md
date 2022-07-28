@@ -32,7 +32,7 @@ nav-menu: true
 		<i>Course Project for <b>Knowledge Engineering For Deep Natural Language Processing</b></i>
 		<ul>
 			<li>Analyzed <a href="https://en.wikipedia.org/wiki/Hixkaryana_language">Hixkaryana</a> syntax. </li>
-			<li>Implemented various linguistic phenomena with Head-Driven Phrase Structure Grammar (HPSG) for Hixkaryana (clausal modifier, non-verbal predicate, tense, aspect, adnominal possession, determiners, wh-questions, argument optionality, agreement).</li>
+			<li>Implemented various linguistic phenomena with Head-Driven Phrase Structure Grammar (HPSG) for Hixkaryana (clausal modifier, non-verbal predicate, tense, aspect, adnominal possession, determiners, wh-questions, argument optionality, and agreement).</li>
 		</ul>
 		<h3>Offensive Tweet Detection</h3>
 		<i>Course Project for <b>Natural Language Processing Systems And Applications</b></i>
