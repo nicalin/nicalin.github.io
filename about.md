@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>About</h2>
+			<h1>About</h1>
 		</header>
 		<span class="image right"><img src="{% link assets/images/nica.jpg %}" alt="" data-position="top center" style="width:400px;" /></span>
 		<p><b>June, 2022: INFO TO BE UPDATED :)</b></p>
