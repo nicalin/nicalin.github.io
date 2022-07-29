@@ -37,7 +37,7 @@ nav-menu: true
 		<h3>Offensive Tweet Detection</h3>
 		<i>Course Project for <b>Natural Language Processing Systems And Applications</b></i>
 		<ul>
-			<li>This project includes two end-to-end system for classifying English and Greek tweets as offensive or non-offensive</li>
+			<li>This project includes two end-to-end systems for classifying English and Greek tweets as offensive or non-offensive</li>
 			<li>Details can be found <a href="https://github.com/kvah/ling-573-offensive-tweet-detection">here</a></li>
 		</ul>
 	</div>
