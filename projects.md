@@ -37,7 +37,7 @@ nav-menu: true
 		<h3>Offensive Tweet Detection</h3>
 		<i>Course Project for <b>Natural Language Processing Systems And Applications</b></i>
 		<ul>
-			<li>This project includes two end-to-end system for classifying English and Greek tweets as offensive or non-offensive.</li>
+			<li>This project includes two end-to-end system for classifying English and Greek tweets as offensive or non-offensive</li>
 			<li>Details can be found <a href="https://github.com/kvah/ling-573-offensive-tweet-detection">here</a></li>
 		</ul>
 	</div>
@@ -48,9 +48,13 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h3>Psycholinguistics</h3>
+			<h2>Psycholinguistics</h2>
 		</header>
-		<p>Hsu, C. C., Chang, F. Y., Chen, C. Y., Chen, P. Y., <b>Lin, Y. C.</b> & Liu, Y. T. (2019, March). <i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presented at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China.</p>
+		<h3>A Study of L2 Acquisition of Backward Anaphora Resolution</h3>
+		<i>Course Project for <b>Sentence Comprehension</b></i>
+		<ul>
+			<li>An empirical study of backward anaphora resolution for L1-Mandarin-L2-English learners</li>
+		</ul>
 	</div>
 </section>
 </div>
