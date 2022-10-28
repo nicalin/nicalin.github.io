@@ -13,7 +13,7 @@ nav-menu: true
 		<header class="major">
 			<h1>About</h1>
 		</header>
-		<span class="image right"><img src="{% link assets/images/nica-2021.jpg %}" alt="" data-position="top center" style="width:400px;" /></span>
+		<span class="image right"><img src="{% link assets/images/nica-2021.jpg %}" alt="" data-position="top center" style="width:349px;height:468px;" /></span>
 		<p>Hello! I am a student working on my <a herf="https://www.compling.uw.edu/">MS in Computational Lingusitics</a> at the University of Washington (UW). Before my studies at UW, I received my B.A. degree in Foreign Languages and Literature from National Tsing Hua University (NTHU), and worked as a research assistant at the <a href="https://www.nlplab.cc/">NLP Lab</a> at NTHU.</p>
 		<p>My research interests are (1) methods that incorporate linguistics/psycholinguistics in improving the generalizability and interpretability of NLP applications, and (2) the computational modeling of linguistic phenomena.</p>
 		<p>Currently, I am working on my master's thesis in inferring information abuot the valence-changing morphology of a given language from interlinear glossed text (IGT).</p>
