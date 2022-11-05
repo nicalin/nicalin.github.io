@@ -54,8 +54,14 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Teaching Experience</h2>
+			<h2>Teaching and Mentoring</h2>
 		</header>
+		<p><b>University of Washington, Dept. of Linguistics (Seattle, Washington, U.S.A)</b><br><i>Position: Mentor</i> (Sep. 2022 – Present)
+			<ul>
+				<li>Program: Linguistics Undergraduate Research Apprenticeship Program (LURAP)</li>
+				<li>Project: Treebanking Linguistic Corpora</li>
+			</ul>
+		</p>
 		<p><b>National Tsing Hua University, Dept. of Foreign Languages and Literature (Hsinchu, Taiwan)</b><br><i>Position: Teaching Assistant</i> (Jan. 2020 – June 2020)
 			<ul>
 				<li>FL422000 Sentence Processing Experiments (Instructor: Prof. Chun-Chieh Hsu, Ph.D.)</li>
