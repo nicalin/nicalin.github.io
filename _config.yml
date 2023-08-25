@@ -1,11 +1,11 @@
 # site settings
-title: Nica
+title: YCLin
 subtitle: Yi-Chien Lin
 email: nicayclin@gmail.com
-description: I also go by Nica :)
+description: Welcome :)
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://nicalin.github.io" # the base hostname & protocol for your site
-author: Nica
+author: YCLin
 # street_address: 1234 Somewhere Road
 city: Hsinchu
 # state: TN
@@ -23,7 +23,7 @@ facebook_url:
 github_url: https://github.com/nicalin
 gitlab_url: 
 googleplus_url: 
-instagram_url: https://instagram.com
+instagram_url: 
 linkedin_url: https://www.linkedin.com/in/nicayclin/
 pinterest_url:
 slack_url:
