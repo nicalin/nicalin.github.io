@@ -22,7 +22,7 @@ nav-menu: true
 		<header class="major">
 			<h2>The Ohio State University, Columbus, Ohio, US</h2>
 		</header>
-		<h3>Ph.D. in Linguistics (Sep. 2023 – Present)</h3>
+		<h3>Ph.D. in Linguistics (Aug. 2023 – Present)</h3>
 		<h4>Relevant Courses</h4>
 		<ul>
 			<li>Computational Linguistics 1 (IP)</li>
