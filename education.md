@@ -17,13 +17,27 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
 <section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>The Ohio State University, Columbus, US</h2>
+		</header>
+		<h3>Ph.D. in Linguistics (Sep. 2023 – Present)</h3>
+		<h4>Relevant Courses</h4>
+		<ul>
+			<li>Computational Linguistics 1 (IP)</li>
+			<li>Semantics 1 (IP)</li>
+		</ul>
+	</div>
+</section>
+
+<!-- Three -->
+<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>University of Washington, Seattle, US</h2>
 		</header>
-		<h3>M.S. in Computational Linguistics (Sep. 2021 – March 2023)</h3>
+		<h3>M.S. in Computational Linguistics (Sep. 2021 – June 2023)</h3>
 		<h4>Relevant Courses</h4>
 		<ul>
 			<li>Syntax For Computational Linguistics (Head-Driven Phrase Structure Grammar; HPSG)</li>
@@ -32,13 +46,15 @@ nav-menu: true
 			<li>Advanced Statistical Methods In Natural Language Processing</li>
 			<li>Knowledge Engineering For Deep Natural Language Processing</li>
 			<li>Natural Language Processing Systems And Applications</li>
+			<li>Text Summarization</li>
+			<li>Sociolinguistics I</li>
 			<li>Phonetics</li>
 		</ul>
 	</div>
 </section>
 
-<!-- Three -->
-<section id="three">
+<!-- Four -->
+<section id="four">
 	<div class="inner">
 		<header class="major">
 			<h2>National Tsing Hua University (NTHU), Hsinchu, Taiwan</h2>
