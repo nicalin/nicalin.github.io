@@ -20,13 +20,17 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>The Ohio State University, Columbus, US</h2>
+			<h2>The Ohio State University, Columbus, Ohio, US</h2>
 		</header>
 		<h3>Ph.D. in Linguistics (Sep. 2023 – Present)</h3>
 		<h4>Relevant Courses</h4>
 		<ul>
 			<li>Computational Linguistics 1 (IP)</li>
 			<li>Semantics 1 (IP)</li>
+		</ul>
+		<h4>Award</h4>
+		<ul>
+			<li>2023 - Distinguished University Fellowship</li>
 		</ul>
 	</div>
 </section>
@@ -35,7 +39,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>University of Washington, Seattle, US</h2>
+			<h2>University of Washington, Seattle, Washington, US</h2>
 		</header>
 		<h3>M.S. in Computational Linguistics (Sep. 2021 – June 2023)</h3>
 		<h4>Relevant Courses</h4>
@@ -79,7 +83,7 @@ nav-menu: true
 		</ul>
 		<h4>Award</h4>
 		<ul>
-			<li>Academic Achievement Award, NTHU (2018): top 5% in class</li>
+			<li>2018 - Academic Achievement Award: top 5% in class</li>
 		</ul>
 	</div>
 </section>
