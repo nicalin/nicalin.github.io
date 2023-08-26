@@ -23,10 +23,10 @@ nav-menu: true
 		<header class="major">
 			<h2>Computational Linguistics / Natural Language Processing</h2>
 		</header>
-		<h3>Inference for valence-changing morphology (In Progress)</h3>
+		<h3>Automatically Inferring Grammar Specifications for Valence-changing Verbal Morphology from Interlinear Glossed Text</h3>
 		<i>Master's Thesis (Advisor: Prof. <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a>)</i> 
 		<ul>
-			<li>Inferring valence-changing verbal morphology from interlinear glossed text (IGT) to automatically answer the “valence-changing” part in the LinGO Grammar Matrix customization system.</li>
+			<li>Description: This work is part of the <a href="https://depts.washington.edu/uwcl/aggregation/">AGGREGATION</a> project. The goal of this project is to automaatically infer valence-changing verbal morphology from interlinear glossed text (IGT) to answer the “valence-changing” part in the <a href="https://matrix.ling.washington.edu/index.html">LinGO Grammar Matrix</a> customization system.</li>
 		</ul>
 		<h3>Hixkaryana Grammar Implementation</h3>
 		<i>Course Project for <b>Knowledge Engineering For Deep Natural Language Processing</b></i>
