@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Hi there :) My name is Yi-Chien Lin and I'm from Taiwan. Currently, I am doing my Ph.D. degree in Linguistics at the Ohio State Unviersity - Columbus.
+Hi there :) My name is Yi-Chien Lin and I'm from Taiwan. Currently, I am doing my Ph.D. degree in Linguistics at the <a href="https://linguistics.osu.edu/">Ohio State Unviersity - Columbus</a>.
