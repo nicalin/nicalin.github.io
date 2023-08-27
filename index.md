@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Yi-Chien Lin (林依蒨).'
+landing-title: 'Yi-Chien Lin 林依蒨'
 description: null
 image: null
 author: null
