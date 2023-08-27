@@ -26,7 +26,7 @@ nav-menu: true
 		<h3>Automatically Inferring Grammar Specifications for Valence-changing Verbal Morphology from Interlinear Glossed Text</h3>
 		<i>Master's Thesis (Advisor: Prof. <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a>)</i> 
 		<ul>
-			<li>Description: This work is part of the <a href="https://depts.washington.edu/uwcl/aggregation/">AGGREGATION</a> project. The goal is to automaatically infer valence-changing verbal morphology from interlinear glossed text (IGT) to answer the “valence-changing” part in the <a href="https://matrix.ling.washington.edu/index.html">LinGO Grammar Matrix</a> customization system.</li>
+			<li>Description: This work is part of the <a href="https://depts.washington.edu/uwcl/aggregation/">AGGREGATION</a> project. The goal is to automatically infer valence-changing verbal morphology from interlinear glossed text (IGT) to answer the “valence-changing” part in the <a href="https://matrix.ling.washington.edu/index.html">LinGO Grammar Matrix</a> customization system.</li>
 		</ul>
 		<h3>Hixkaryana Grammar Implementation</h3>
 		<i>Course Project for <b>Knowledge Engineering For Deep Natural Language Processing</b></i>
