@@ -76,6 +76,7 @@ nav-menu: true
 			<li>Introduction to Applied Linguistics</li>
 			<li>Syntax</li>
 			<li>Sentence Processing Experiments (Psycholinguistic experiments)</li>
+			<li>Sentence Comprehension (Psycholinguistic experiments)</li>
 			<li>Language and the Brain</li>
 			<li>Phonology</li>
 			<li>Introduction to Psycholinguistics</li>
