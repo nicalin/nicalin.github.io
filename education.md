@@ -25,8 +25,10 @@ nav-menu: true
 		<h3>Ph.D. in Linguistics (Aug. 2023 – Present)</h3>
 		<h4>Relevant Courses</h4>
 		<ul>
-			<li>Computational Linguistics 1 (IP)</li>
-			<li>Semantics 1 (IP)</li>
+			<li>Computational Linguistics 1</li>
+			<li>Semantics 1</li>
+			<li>Computational Linguistics 2 (IP)</li>
+			<li>Syntax 1 (IP)</li>
 		</ul>
 		<h4>Award</h4>
 		<ul>
