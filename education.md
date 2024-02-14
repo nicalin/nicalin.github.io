@@ -46,8 +46,8 @@ nav-menu: true
 		<h3>M.S. in Computational Linguistics (Sep. 2021 – June 2023)</h3>
 		<h4>Master's Thesis: Automatically Inferring Grammar Specifications for Valence-changing Verbal Morphology from Interlinear Glossed Text</h4>
 		<ul>
-			<li>Advisor: Prof. Emily Bender</li>
-			<li>Description: This work is part of the AGGREGATION project. The goal is to automatically infer valence-changing verbal morphology from interlinear glossed text (IGT) to answer the “valence-changing” part in the LinGO Grammar Matrix customization system.
+			<li>Advisor: Prof. <a href="http://faculty.washington.edu/ebender/">Emily M. Bender</a></li>
+			<li>Description: This work is part of the <a href="https://depts.washington.edu/uwcl/aggregation/">AGGREGATION</a> project. The goal is to automatically infer valence-changing verbal morphology from interlinear glossed text (IGT) to answer the “valence-changing” part in the <a href="https://matrix.ling.washington.edu/index.html">LinGO Grammar Matrix</a> customization system.
 </li>
 		</ul>
 		<h4>Relevant Courses</h4>
