@@ -19,32 +19,4 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
-<!-- <section id="two" class="spotlights">
-	<section>
-		<img src="{% link assets/images/dog.jpg %}" alt="" data-position="center center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Fact 1: I am both a dog person and a cat person!</h3>
-				</header>
-				<p>There are tons of photos of dogs and cats in my phone. This is <b>Chiao-Chiao</b>, one of my favorite dogs I met in NTHU!</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Fact 2: I live in Hsinchu for more than 20 years.</h3>
-				</header>
-				<p>I was raised in Hsinchu and I even complete my bachelor's degree in Hsinchu!</p>
-			</div>
-		</div>
-	</section>
-</section> -->
-<!-- ************************************************ -->
-
-
 </div>
