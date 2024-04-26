@@ -14,10 +14,7 @@ nav-menu: true
 			<h1>About</h1>
 		</header>
 		<span class="image right"><img src="{% link assets/images/nica-2021.jpg %}" alt="" data-position="top center" style="width:288px;height:386px;" /></span>
-		<p>TO BE UPDATED (2023 Aug)</p>
-		<p>Hello! I am a student working on my <a href="https://www.compling.uw.edu/">MS in Computational Lingusitics</a> at the University of Washington (UW). Before my studies at UW, I received my B.A. degree in Foreign Languages and Literature from National Tsing Hua University (NTHU), and worked as a research assistant at the <a href="https://www.nlplab.cc/">NLP Lab</a> at NTHU.</p>
-		<p>My research interests are (1) methods that incorporate linguistics/psycholinguistics in improving the generalizability and interpretability of NLP applications, and (2) the computational modeling of natural language structures.</p>
-		<p>Currently, under the supervision of <a href="http://faculty.washington.edu/ebender/">Prof. Emily M. Bender</a>, I am working on my master's thesis in inferring information about the valence-changing morphology of a given language from its interlinear glossed text (IGT).</p>
+		<p>I am a first-year Ph.D. student in the <a href="https://linguistics.osu.edu/">Department of Linguistics</a> at the Ohio State University, working with Professor <a href="https://www.asc.ohio-state.edu/schuler.77/?_gl=1*lnfgbg*_ga*NjU4OTk1MjAxLjE2NTkwNzE0MDQ.*_ga_09WC99HMPE*MTcxNDE1NTIyNS40NzEuMS4xNzE0MTU3ODkyLjkuMC4w">William Schuler</a> and <a href="https://u.osu.edu/white.1240/">Michael White</a>. I am interested in the interpretability of neural network models and the computational modeling of natural language structures. I am specifically interested in adopting linguistically motivated methods in studying these areas.</p>
 	</div>
 </section>
 
