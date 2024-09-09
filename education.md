@@ -27,8 +27,9 @@ nav-menu: true
 		<ul>
 			<li>Computational Linguistics 1</li>
 			<li>Semantics 1</li>
-			<li>Computational Linguistics 2 (IP)</li>
-			<li>Syntax 1 (IP)</li>
+			<li>Computational Linguistics 2</li>
+			<li>Syntax 1</li>
+			<li>Phonetics 1 (IP)</li>
 		</ul>
 		<h4>Award</h4>
 		<ul>
