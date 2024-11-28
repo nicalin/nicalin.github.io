@@ -25,23 +25,23 @@ nav-menu: true
 			<h2>Work Experiences</h2>
 		</header>
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - July 2021)
-			<ul>
+<!-- 			<ul>
 				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
 				<li>Developed the algorithm for the detection of argument-hood.</li>
-			</ul>
+			</ul> -->
 		</p>
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Linguistic Intern</i> (July 2019 - June 2020)
-			<ul>
+<!-- 			<ul>
 				<li>Generated guidelines for synchronous grammar pattern annotation across Chinese and English. Analyzed the syntactic structures of Chinese and English.</li>
 				<li>Analyzed the relation between WordNet senses and Wikipedia pages. Assisted in developing the algorithm for aligning WordNet senses to their corresponding Wikipedia pages.</li>
 				<li>Devised testing data guidelines for the Wikipedia-WordNet alignment task.</li>
-			</ul>
+			</ul> -->
 		</p>
 		<p><b>Glossika (Taipei, Taiwan)</b><br><i>Position: Linguistic Intern</i> (Jan. 2019 – June 2019)
-			<ul>
+<!-- 			<ul>
 				<li>Refined the Role and Reference Grammar database. Analyzed and annotated possible thematic roles of English verbs for improvement of Glossika learning system.</li>
 				<li>Amplified the lexicon databases of German, Dutch, and Swedish. Implemented their morphological structures with regular expression.</li>
-			</ul>
+			</ul> -->
 		</p>
 	</div>
 </section>
