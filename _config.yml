@@ -2,15 +2,15 @@
 title: YCLin
 subtitle: Yi-Chien Lin
 email: nicayclin@gmail.com
-description: 
+description: Welcome
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://nicalin.github.io" # the base hostname & protocol for your site
 author: YCLin
 # street_address: 1234 Somewhere Road
-city: Hsinchu
+city: 
 # state: TN
-zip_code: 300
-country: Taiwan
+zip_code: 
+country: 
 # phone: (716) 555-5555
 
 # homepage tiles
