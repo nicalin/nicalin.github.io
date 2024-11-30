@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-My name is Yi-Chien Lin and I'm from Taiwan. I'm a second-year Ph.D. student in the <a href="https://linguistics.osu.edu/">Department of Linguistics</a> at the Ohio State Unviersity.
+Hi! I'm born and raised in Taiwan. I'm a currently second-year Ph.D. student in the <a href="https://linguistics.osu.edu/">Department of Linguistics</a> at the Ohio State Unviersity.
