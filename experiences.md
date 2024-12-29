@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experiences
+title: Experience
 show_tile: true
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Experiences</h1>
+			<h1>Experience</h1>
 		</header>
 	</div>
 </section>
@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Work Experiences</h2>
+			<h2>Work Experience</h2>
 		</header>
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - July 2021)
 <!-- 			<ul>
