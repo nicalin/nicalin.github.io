@@ -24,6 +24,8 @@ nav-menu: true
 		<header class="major">
 			<h2>Work Experience</h2>
 		</header>
+		<p><b>Computational Cognitive Modeling Lab (Columbus, OH)</b><br><i>Position: Graduate Research Assistant</i> (Aug 2024 - Present)
+		</p>
 		<p><b>National Tsing Hua University Natural Language Processing Lab (Hsinchu, Taiwan)</b><br><i>Position: Research Assistant</i> (July 2020 - July 2021)
 <!-- 			<ul>
 				<li>Embedded dictionary definitions. Constructed a vector space model with WordNet for definition vectorization.</li>
