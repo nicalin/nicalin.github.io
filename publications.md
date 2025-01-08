@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications and Presentations
 show_tile: true
 nav-menu: true
 ---
@@ -21,11 +21,12 @@ nav-menu: true
 <!-- Two -->
 <section id="two">
 	<div class="inner">
-		<header class="major">
+<!-- 		<header class="major">
 			<h2>Computational Linguistics / Natural Language Processing</h2>
-		</header>
-		<p>Tuan, K. W., <b>Lin, Y. C.</b>, Chen, L. K., Chang, J. S. & Lee, K. L. (2020, December). <i>ConSenses: Disambiguating content word groups based on knowledge base and definition embedding</i>. Poster presented at the 25th International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2020), Taipei City, Taiwan.</p>
-		<p>Yang, C. Y., Chen, Y. Z., <b>Lin, Y. C.</b>, Tsai, W. T. & Chang, J. S. (2019, October). <i>Annotating Synchronous Grammar Patterns across English and Chinese</i>. Poster presented at the 31st Conference on Computational Linguistics and Speech Processing (ROCLING 2019), New Taipei City, Taiwan.</p>
+		</header> -->
+		<p>Alyssa Allen, Ashley Lewis, <b>Yi-Chien Lin</b>, Tomiris Kaumenova, and Michael White. 2024. OSU CompLing at the GEM'24 Data-to-Text Task. In <i>Proceedings of the 17th International Natural Language Generation Conference: Generation Challenges</i>, pages 100–111, Tokyo, Japan. Association for Computational Linguistics.</p>
+		<p>Kai-Wen Tuan, <b>Yi-Chien Lin</b>, Jason S. Chang, Kuan-Lin Lee, and Li-Kuang Chen. 2020. Consenses: Disambiguating content word groups based on knowledge base and definition embedding. In 2020 International Conference on Technologies and Applications of Artificial Intelligence (TAAI), pages 260–265. </p>
+		<p>Ching-Yu Helen Yang, Ying-Zhu Chen, Jason S. Chang, <b>Yi-Chien Lin</b>, and Wei-Tien Dylan Tsai. 2019. 標註英中同步樣式文法之研究(Annotating Synchronous Grammar Patterns across English and Chinese). In <i>Proceedings of the 31st Conference on Computational Linguistics and Speech Processing (ROCLING 2019)</i>, pages 424–433, New Taipei City, Taiwan. The Association for Computational Linguistics and Chinese Language Processing (ACLCLP).</p>
 	</div>
 </section>
 
@@ -34,9 +35,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Psycholinguistics</h2>
+			<h1>Presentations</h1>
 		</header>
-		<p>Hsu, C. C., Chang, F. Y., Chen, C. Y., Chen, P. Y., <b>Lin, Y. C.</b> & Liu, Y. T. (2019, March). <i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presented at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China.</p>
+		<p><i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presentation at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China. (Collaborative work with Dr. Chun-Chieh Hsu, Fang-Yu Chang, Ching-Yi-Chien, Pei-Yun Chen, and Yi-Ting Liu)</p>
 	</div>
 </section>
 </div>
