@@ -15,7 +15,7 @@ nav-menu: true
 			<h1>Publications</h1>
 		</header>
 		<p>Alyssa Allen, Ashley Lewis, <b>Yi-Chien Lin</b>, Tomiris Kaumenova, and Michael White. 2024. OSU CompLing at the GEM'24 Data-to-Text Task. In <i>Proceedings of the 17th International Natural Language Generation Conference: Generation Challenges</i>, pages 100–111, Tokyo, Japan. Association for Computational Linguistics.</p>
-		<p>Kai-Wen Tuan, <b>Yi-Chien Lin</b>, Jason S. Chang, Kuan-Lin Lee, and Li-Kuang Chen. 2020. Consenses: Disambiguating content word groups based on knowledge base and definition embedding. In 2020 International Conference on Technologies and Applications of Artificial Intelligence (TAAI), pages 260–265. </p>
+		<p>Kai-Wen Tuan, <b>Yi-Chien Lin</b>, Jason S. Chang, Kuan-Lin Lee, and Li-Kuang Chen. 2020. Consenses: Disambiguating content word groups based on knowledge base and definition embedding. In <i>2020 International Conference on Technologies and Applications of Artificial Intelligence (TAAI)</i>, pages 260–265. IEEE.</p>
 		<p>Ching-Yu Helen Yang, Ying-Zhu Chen, Jason S. Chang, <b>Yi-Chien Lin</b>, and Wei-Tien Dylan Tsai. 2019. 標註英中同步樣式文法之研究(Annotating Synchronous Grammar Patterns across English and Chinese). In <i>Proceedings of the 31st Conference on Computational Linguistics and Speech Processing (ROCLING 2019)</i>, pages 424–433, New Taipei City, Taiwan. The Association for Computational Linguistics and Chinese Language Processing (ACLCLP).</p>
 	</div>
 </section>
