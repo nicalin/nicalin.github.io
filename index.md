@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-嗨，你好！ I'm born and raised in Taiwan. I'm currently a third-year Ph.D. student in the <a href="https://linguistics.osu.edu/">Department of Linguistics</a> at the Ohio State Unviersity.
+I'm born and raised in Taiwan. I'm currently a third-year Ph.D. student in the <a href="https://linguistics.osu.edu/">Department of Linguistics</a> at the Ohio State Unviersity.
