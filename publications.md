@@ -34,7 +34,7 @@ nav-menu: true
 			<h1>Presentations</h1>
 		</header>
 		<ul>
-  		<li><i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presentation at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China. (Collaborative work with Dr. Chun-Chieh Hsu, Fang-Yu Chang, Ching-Yi-Chien, Pei-Yun Chen, and Yi-Ting Liu)</ul>
+  		<li><i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presentation at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China. (Collaborative work with Dr. Chun-Chieh Hsu, Fang-Yu Chang, Ching-Yi-Chien, Pei-Yun Chen, and Yi-Ting Liu)
 		</ul>
 	</div>
 </section>
