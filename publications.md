@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Publications</h1>
+			<h1>Publications (<a href="https://scholar.google.com/citations?user=F2VoseMAAAAJ&hl=en&oi=ao">Google Scholar</a>)</h1>
 		</header>
 		<ul>
 			<li><b>Yi-Chien Lin</b> and William Schuler. 2025. Surprisal from larger transformer-based language models predicts fmri data more poorly. <i>arXiv preprint arXiv:2506.11338</i>.</li>
