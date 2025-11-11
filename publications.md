@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Publications (<a href="https://scholar.google.com/citations?user=F2VoseMAAAAJ&hl=en&oi=ao">Google Scholar</a>)</h1>
+			<h2>Publications (<a href="https://scholar.google.com/citations?user=F2VoseMAAAAJ&hl=en&oi=ao">Google Scholar</a>)</h2>
 		</header>
 		<ul>
 			<li><b>Yi-Chien Lin</b> and William Schuler. 2025. Surprisal from larger transformer-based language models predicts fmri data more poorly. <i>arXiv preprint arXiv:2506.11338</i>.</li>
@@ -31,10 +31,10 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h1>Presentations</h1>
+			<h2>Presentations</h2>
 		</header>
 		<ul>
-  		<li><i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presentation at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China. (Collaborative work with Dr. Chun-Chieh Hsu, Fang-Yu Chang, Ching-Yi-Chien, Pei-Yun Chen, and Yi-Ting Liu)
+  		<li><i>The asymmetry between ziji and ta-ziji in Mandarin: An empirical investigation</i>. Poster presentation at the 2nd International Conference on Theoretical East Asian Psycholinguistics, Beijing, China. (Collaborative work with Dr. Chun-Chieh Hsu, Fang-Yu Chang, Ching-Yi-Chien, Pei-Yun Chen, and Yi-Ting Liu)</li>
 		</ul>
 	</div>
 </section>
